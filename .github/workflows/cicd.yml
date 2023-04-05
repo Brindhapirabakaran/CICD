@@ -30,4 +30,4 @@ jobs:
           - name: Download artifacts to VM
             uses: actions/download-artifact@v3
             with:
-             name: my-artifacts  
+             name: my-artifacts
